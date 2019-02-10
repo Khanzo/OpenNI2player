@@ -1,0 +1,1 @@
+Compiled OpenCV 3.4.5_64 QT5_mingw version(QT5.12.1, mingw73_64): https://github.com/Khanzo/OpenNI2player/releases/download/win_64/OpenCV2.zip
