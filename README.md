@@ -1,6 +1,6 @@
 Проект плеер oni файлов
 ----------
-В папке Python - python версия.<br>
+В папке python - python версия.<br>
 В папке qt5 - qt5 c++ версия.<br><br>
 
 vcredist_x64_2010: https://www.microsoft.com/ru-ru/download/details.aspx?id=14632<br>
